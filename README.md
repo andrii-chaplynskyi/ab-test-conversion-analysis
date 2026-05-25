@@ -42,7 +42,7 @@ Full numerical outputs are in the notebook. Figures in this README are not infer
 - **SQL** (BigQuery dialect) for data extraction and pre-aggregation
 - **Python**: `pandas`, `numpy`, `statsmodels`
 - **Statistical method**: two-proportion z-test for conversion rate comparison
-- **Environment**: Jupyter Notebook / Google Colab
+- **Environment**: Google Colab
 
 ## Repository Structure
 
@@ -56,7 +56,7 @@ Full numerical outputs are in the notebook. Figures in this README are not infer
 
 ## How to Run
 
-1. Clone the repository and open the notebook in Jupyter or Google Colab.
+1. Clone the repository and open the notebook in Google Colab.
 2. Install dependencies: `pip install pandas numpy statsmodels`.
 3. Run the notebook top to bottom. All outputs are committed so the notebook can be read without re-execution.
 
